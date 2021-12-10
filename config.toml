@@ -10,6 +10,7 @@ paginate = 5
 ignoreErrors = ["error-remote-getjson"]
 relativeURLs = true
 canonifyURLs = true
+googleAnalytics = 'G-2QE80T5ECV'
 
 [params]
 title = "Soho Theme"
@@ -17,7 +18,7 @@ description = "Big Data Engineer"
 # gravatar = "soho@example.com"
 images = ["images/profile.png"]
 profilePicture = "images/profile.png"
-copyright = "Author Name"
+copyright = "Roman Lukash"
 license = "CC BY-SA 4.0"
 licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
 builtWith = true
