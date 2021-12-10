@@ -1,5 +1,5 @@
 baseURL = 'https://happytomatoe.github.io/blog/'
-title = 'My Personal Blog'
+title = 'Roman Lukash'
 theme = "soho"
 languageCode = "en"
 DefaultContentLanguage = "en"
@@ -13,7 +13,7 @@ canonifyURLs = true
 
 [params]
 title = "Soho Theme"
-description = "Example Blog"
+description = "Big Data Engineer"
 # gravatar = "soho@example.com"
 images = ["images/profile.png"]
 profilePicture = "images/profile.png"
